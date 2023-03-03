@@ -31,5 +31,6 @@ func style2() {
 }
 
 func main() {
-	style2()
+	style1()
+	// style2()
 }
